@@ -2,7 +2,8 @@
 
 ## Instrucciones
 
-Coloca un archivo `.xlsx` con el nombre `file.xlsx` en el mismo directorio que el script para usar la calculadora.
+- Coloca un archivo `.xlsx` con el nombre `file.xlsx` en la carpeta `build`.
+- Ejecutar archivo `Statistics Calculator.exe`
 
 ## Definiciones
 
