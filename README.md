@@ -1,5 +1,7 @@
 # EST CALCULATOR
 
+<img src="img/icon.png" width="50%">
+
 ## Instrucciones
 
 - Coloca un archivo `.xlsx` con el nombre `file.xlsx` en la carpeta `build`.
