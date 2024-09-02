@@ -1,6 +1,6 @@
-# EST CALCULATOR
+# STATISTICS CALCULATOR
 
-<img src="img/icon.png" width="50%">
+<img src="img/icon.png" width="10%">
 
 ## Instrucciones
 
