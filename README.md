@@ -1,6 +1,6 @@
 # STATISTICS CALCULATOR
 
-<img src="img/icon.png" width="10%">
+<img src="img/icon.png" width="20%">
 
 ## Instrucciones
 
